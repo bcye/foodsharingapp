@@ -1,3 +1,5 @@
+[![Gitter chat](https://badges.gitter.im/foodsharingapp/Lobby.png)](https://gitter.im/foodsharingapp/Lobby)
+
 # Foodsharing App
 I want to create a food sharing app with a very simple UI, so the experience is as fast as possible. The idea behind it is to:
 
