@@ -17,6 +17,7 @@ For the backend part I want just to use Firebase as a database.
 
 ## Design
 I already have a pretty straight idea of the UI design and am creating a mockup to share it.
+Just download Adobe XD (it's free) and open the [.xd file from the design folder](design/appMockup.xd)
 
 ## Contribute
 This project **hasn’t started really yet**, so just join the [gitter room](https://gitter.im/foodsharingapp/Lobby) and discuss what can be done.
